@@ -3,6 +3,7 @@
         "*.erd": "json",
         "*.vuerd": "json",
         "*.html": "html",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "stdlib.h": "c"
     }
 }
