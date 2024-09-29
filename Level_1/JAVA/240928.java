@@ -11,7 +11,7 @@ class Solution {
         
         for(int i = 0; i < s.length(); i++) {
             char count = s.charAt(i);
-            
+
             if(count == 'p') {
                 p++;
             }
