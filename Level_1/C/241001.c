@@ -16,4 +16,3 @@ int solution(int n) {
     
     return sum;
 }
-ddddd
